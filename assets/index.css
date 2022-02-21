@@ -23,7 +23,7 @@ html {
 body {
   font: inherit;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
-    url("https://cdn.discordapp.com/attachments/941706448491139162/942097805453963374/Homura-Hime_2022_01-23-22_006.jpg") center center/cover;
+    url("https://cdn.akamai.steamstatic.com/steam/apps/1539620/extras/MONARK_Steam_SS_1.png?t=1644517956") center center/cover;
   background-attachment: fixed;
 }
 .wrapper {
