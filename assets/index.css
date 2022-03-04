@@ -23,7 +23,7 @@ html {
 body {
   font: inherit;
   background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
-    url("https://cdn.akamai.steamstatic.com/steam/apps/1539620/ss_546a4431ac847c394604bb009c7b8b76ef7fa67b.600x338.jpg?t=1644517956") center center/cover;
+    url("https://cdn.cloudflare.steamstatic.com/steam/apps/1325890/ss_1f8c280d05cb16982a8edc4608b031790f3bbf3e.1920x1080.jpg?t=1645465387") center center/cover;
   background-attachment: fixed;
 }
 .wrapper {
